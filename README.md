@@ -2,5 +2,5 @@
 Criando nosso primeiro repositório
 
 ...
-Criado por Alexandre Santos
+Criado por Alexandre Santos da Silva
 ...
